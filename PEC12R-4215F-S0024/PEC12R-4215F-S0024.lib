@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model PEC12R-4215F-S0024
+#/1608609/207117/2.44/5/4/Undefined or Miscellaneous
+DEF PEC12R-4215F-S0024 U 0 30 Y Y 1 F N
+F0 "U" 650 300 50 H V L CNN
+F1 "PEC12R-4215F-S0024" 650 200 50 H V L CNN
+F2 "PEC12R-4XXXF-SXXXX_1" 650 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/PEC12R-4215F-S0024.pdf" 650 0 50 H I L CNN
+F4 "Encoders HORZ 24DET 24PULSE 15mm SHAFT SPST SW" 650 -100 50 H I L CNN "Description"
+F5 "" 650 -200 50 H I L CNN "Height"
+F6 "652-PEC12R-4215F-S24" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=652-PEC12R-4215F-S24" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Bourns" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "PEC12R-4215F-S0024" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X A 1 0 0 200 R 50 50 0 0 U
+X B 2 0 -100 200 R 50 50 0 0 U
+X C 3 0 -200 200 R 50 50 0 0 U
+X 1 4 800 0 200 L 50 50 0 0 U
+X 2 5 800 -100 200 L 50 50 0 0 U
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
